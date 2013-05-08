@@ -20,7 +20,7 @@
       "url": "https://github.com/shanejonas/grunt-browserify2/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "Gruntfile.coffee",
+  "main": "Gruntfile.js",
   "engines": {
     "node": ">= 0.8.0"
   },
@@ -37,6 +37,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "browserify": "~2.11.0"
+    "browserify": "~2.13.2"
   }
 }
